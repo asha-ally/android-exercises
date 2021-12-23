@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1640085894341.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640086703804.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640086870783.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640087535004.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640090122021.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640093225124.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640161317208.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640162933530.xml" value="0.17407407407407408" />
+        <entry key="../../../../layout/compose-model-1640162975411.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640163963675.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1640184578445.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_comments.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_dark.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_like.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
